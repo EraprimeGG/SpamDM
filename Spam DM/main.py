@@ -1,6 +1,5 @@
-# Made by Severityc on Github | Licensed (MIT)
+# Made by EraprimeGG on Github | Licensed (MIT)
 # This was made for educational purposes only
-# Find the latest version at https://github.com/severityc/DM-FLOODER
 
 import discord
 from discord.ext import commands
